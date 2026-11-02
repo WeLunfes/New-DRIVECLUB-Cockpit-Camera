@@ -3,7 +3,7 @@
 This camera replaces the Dashboard Camera view, as it is based on its physics. 
 To do this, I also changed the coordinate parameters from the Head Camera for each car in the game.
 
-P.S. If you want to return to the vanilla settings of the Dashboard Camera later, just drag the `data` folder from the `vanilla cameras` folder into the game directory.
+P.S. If you want to return to the vanilla settings of the Dashboard Camera later, just drag the `data` folder from the `vanilla backup cameras` folder into the game directory.
 
 This mod is compatible with all platforms.
 
