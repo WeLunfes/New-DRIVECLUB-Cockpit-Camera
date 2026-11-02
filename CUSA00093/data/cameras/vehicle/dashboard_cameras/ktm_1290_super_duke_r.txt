@@ -1,0 +1,9 @@
+#include include/attached_camera_shakey_params_bike.txt
+
+POSITION_OFFSET	   0       1.05    0.186
+
+WHEELIE_MAX_ANGLE				90.0
+WHEELIE_MAX_PITCH_CORRECTION	35.0
+WHEELIE_MAX_VERTICAL_OFFSET		0.3
+
+

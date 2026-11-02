@@ -1,0 +1,6 @@
+#include include/attached_camera_shakey_params.txt
+
+POSITION_OFFSET	  0.325     0.806    -0.0329
+
+
+
