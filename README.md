@@ -9,7 +9,7 @@ This mod is compatible with all platforms.
 
 ### Installation:
 
-Drag and drop only the CUSA00093 folder into the game directory.
+Drag and drop only the CUSA00093 folder into the game directory (with file replacement, if you have already unpacked the game's camera files).
 
 ---
 
