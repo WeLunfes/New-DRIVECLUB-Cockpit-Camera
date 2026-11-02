@@ -3,8 +3,8 @@
 This camera replaces the Dashboard Camera view, as it is based on its physics. 
 To do this, I also changed the coordinate parameters from the Head Camera for each car in the game.
 
-P.S. If you want to return to vanilla settings of the Dashboard Camera later, save a backup of all files from the dashboard_cameras folder and only then replace the files. 
-If you do not have the data/cameras/vehicle folders, it is better to install Vanilla Cameras in advance.
+P.S. If you want to return to vanilla settings of the Dashboard Camera later, save a backup of all files from the `dashboard_cameras` folder and only then replace the files. 
+If you do not have the `data/cameras/vehicle folders`, it is better to install Vanilla Cameras in advance.
 
 This mod is compatible with all platforms.
 
@@ -12,7 +12,7 @@ This mod is compatible with all platforms.
 
 ### Installation:
 
-Drag and drop only the CUSA00093 folder into the game directory (with file replacement, if you have already unpacked the game's camera files).
+Drag and drop only the `data` folder into the game directory (with file replacement, if you have already unpacked the game's camera files).
 
 ---
 
